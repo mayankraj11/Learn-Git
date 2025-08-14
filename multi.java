@@ -1,7 +1,7 @@
-public class diff {
+public class multi {
     public static void main(String[] args) {
         int a=5;
         int b=10;
-        System.out.println("diff"+(a-b));
-    }
+        System.out.println("multiply"+(a*b));
+    } 
 }
